@@ -107,6 +107,11 @@ We welcome contributions!
 
 🔁 Submit a pull request
 
+**Abinesh M**  
+📧 m.abinesh555@email.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/abinesh555/)  
+💻 [GitHub](https://github.com/technicalabinesh)
+
 📌 Please follow the code style and include documentation.
 
 📜 License
